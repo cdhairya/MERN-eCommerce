@@ -2,3 +2,17 @@ a {
   text-decoration: none;
   color: #333;
 }
+
+.rating span {
+  margin: 0.1 rem;
+}
+
+.rating svg {
+  color: #f8e825
+}
+
+.rating-text {
+  font-size: 0.8rem;
+  padding-left: 0.5rem;
+  font-weight: 600;
+}
